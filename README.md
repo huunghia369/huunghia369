@@ -3,7 +3,7 @@
 - 🌱 Currently Learning: Deepening my skills in **Java**
 - 👯 Open to Collaborate: Passionate about **Backend Development Projects**
 - 💬 Ask Me About: **Tech, Backend Systems & Personal Growth**
-- 📫 How to reach me: **nghianguyenhuu963@gmail.com**
+- 📫 Reach Me At: **nghianguyenhuu963@gmail.com**
 - 😄 Pronouns: He/Him
 
 ## 🌐 Socials:
